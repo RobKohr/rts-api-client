@@ -1,0 +1,21 @@
+island list
+<table ng-controller="island_listCtrl" border="1">
+    <tr>
+
+        <th>
+            Name
+        </th>
+        <th>
+            Cords
+        </th>
+    </tr>
+    <tr ng-repeat="(key, island) in island_list">
+        <td>
+            <a href="/island/{{key}}">{{island.name}}</a>
+        </td>
+
+        <td>
+            {{island.x}}, {{island.y}}
+        </td>
+    </tr>
+</table>

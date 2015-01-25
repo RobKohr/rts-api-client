@@ -1,0 +1,15 @@
+x home
+x island list
+x use push state to get rid of # in urls
+x start a node server.js app for hosting
+set up server apis
+island page
+ranking
+events
+mail
+logout
+friends
+
+alliance
+
+settings

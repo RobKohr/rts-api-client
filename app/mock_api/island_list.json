@@ -1,0 +1,27 @@
+{
+  "asldfjlasjfer":
+    {
+      "name":"Unnamed island",
+      "x":1,
+      "y":2,
+      "levels":{
+        "main_house":1,
+        "lumber_mill":2
+      },
+      "resources":{
+        "gold":300,
+        "stone":4000,
+        "wood":50000
+      },
+      "ships":{
+        "warships":50,
+        "transport":10
+      },
+      "units":{
+        "spearfighters":6,
+        "archers":3,
+        "catapults":4
+      }
+    },
+  "jjerewer":{"name":"Unnamed island 3", "x":3, "y":3}
+}
